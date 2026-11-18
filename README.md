@@ -15,3 +15,10 @@ This repository is for practising GitHub version control.
 - Committing changes
 - Pushing changes
 - Working collaboratively
+- Creating and merging branches
+- Opening and reviewing pull requests
+- Resolving merge conflicts
+- 
+- ## Conclusion
+
+- Through this assignment, we are building practical teamwork skills and gaining confidence in using Git and GitHub for collaborative software development
