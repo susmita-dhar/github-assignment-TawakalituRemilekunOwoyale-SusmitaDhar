@@ -21,4 +21,4 @@ This repository is for practising GitHub version control.
 
 - ## Conclusion
 
-- Through this assignment, we are building practical teamwork skills and gaining confidence in using Git and GitHub for collaborative software development
+- Through this assignment, we are building practical teamwork skills and gaining confidence in using Git and GitHub for collaborative software development.
